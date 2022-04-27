@@ -1,0 +1,58 @@
+.container{
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.primario{
+    width: 88%;
+    margin: 0 auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{ 
+    font-size: 40px;
+    line-height: 30px;
+    letter-spacing: -3px;
+    cursor: crosshair;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #0097C1;
+    text-align: center;
+} 
+
+.menu2 ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.menu2 ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #0097C1;
+
+}
+
+.btn{
+    font-size: 5px;
+    border: none;
+    padding: 5px;
+}
