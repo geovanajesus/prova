@@ -66,3 +66,114 @@
     padding-top: 11px;
     padding-bottom: 11px;
 }
+
+.banner01-fundo{
+    background-image: url("imagens/fundobanner.png") ;
+    height: 900px;
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    padding-top: 572px;
+    padding-left: 335px;
+    display: center;
+}
+
+.banner01-texto{
+    font-size: 56px;
+    font-weight: 500;
+    color: #ffffff;
+    width: 769px;
+    height: 68px;
+    padding-top: 572px;
+    padding-left: 300px;
+}
+.botao01{
+    background-color:#0086AB;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    width: 769px;
+    height: 68px;
+    align-self: center;
+}
+.Principais-notícias{
+    padding-right: 41px;
+    padding-left: 68px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-weight: none;
+    width: 1280px;
+    margin: 0 auto;
+   
+}
+.noticia-botao{
+    background-color:#B8B8B8;;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
+.col-todas{
+    padding-right: 41px;
+    padding-left: 68px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+}
+.foto-noticia{
+    padding-right: 41px;
+    padding-left: 68px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+}
+.foto-noticia2{
+    padding-right: 41px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #131B48;
+    color: #ffffff;
+    height: 500px;
+}
+.espaco{
+    height: 500px;
+}
+
+.divisor{
+    height: 2px;
+    width: 1196px;
+    border: 0;
+    background-color: black;
+    margin-bottom: 33px;
+}
+.menu3{
+    color: black;
+    font-size: 15px;
+    line-height: 18px;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 68px;
+    display: inline-block;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
