@@ -108,7 +108,7 @@
     font-weight: none;
     width: 1280px;
     margin: 0 auto;
-   
+    align-items: center;
 }
 .noticia-botao{
     background-color:#B8B8B8;;
@@ -164,16 +164,32 @@
     background-color: black;
     margin-bottom: 33px;
 }
-.menu3{
+.container2{
+    padding-right: 41px;
+    padding-left: 68px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+.col-menu3-direita{
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
     color: black;
-    font-size: 15px;
     line-height: 18px;
     justify-content: space-between;
     display: flex;
     padding-left: 68px;
+    text-decoration: none;
+    justify-content: space-around;
+}
+.col-menu3-direita li{
     display: inline-block;
     text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
 }
