@@ -93,12 +93,13 @@
 .botao01{
     background-color:#0086AB;
     color: #ffffff;
-    text-decoration: none;
     padding: 10px 30px;
     border-radius: 8px;
-    width: 769px;
-    height: 68px;
-    align-self: center;
+    width:  421px;
+    height: 40px;ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddrrrrrrrrrrrrrrrrrrrrrrrrrr
+    font-size: 20px;
+    
+
 }
 .Principais-notícias{
     padding-right: 41px;
@@ -109,6 +110,7 @@
     width: 1280px;
     margin: 0 auto;
     align-items: center;
+    
 }
 .noticia-botao{
     background-color:#B8B8B8;;
@@ -188,8 +190,11 @@
     padding-left: 68px;
     text-decoration: none;
     justify-content: space-around;
+    
+    
 }
 .col-menu3-direita li{
     display: inline-block;
     text-decoration: none;
+    
 }
